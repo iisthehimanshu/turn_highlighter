@@ -1,7 +1,9 @@
 name: turn_highlighter
-description: "A new Flutter package project."
-version: 0.0.1
-homepage:
+description: A Flutter package for drawing turn highlights and directional arrows on a Google Maps path.
+version: 1.0.0
+homepage: https://github.com/iisthehimanshu/turn_highlighter
+repository: https://github.com/iisthehimanshu/turn_highlighter
+issue_tracker: https://github.com/your_name/turn_highlighter/issues
 
 environment:
   sdk: '>=3.4.4 <4.0.0'
